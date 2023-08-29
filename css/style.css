@@ -1,0 +1,21 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body {
+	display: flex;
+	flex-direction: column;
+}
+
+header {
+	background-color: aquamarine;
+}
+
+main {
+	background-color: blueviolet;
+}
+
+footer {
+	background-color: blue;
+}
